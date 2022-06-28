@@ -57,7 +57,7 @@ const backgroundbyeimg = `https://i.imgur.com/2TCj9ri.jpg`
 //Link direto da imagem de fundo das despedidas TAMANHO RECOMENDADO: 1280x720
 //Obs: não coloque o texto longo para a imagem não sumir
 
-const prefix = 'y!' 
+const prefix = '!' 
 // prefixo
 
 const blockedmsg = '🚫 *Caro senhor, você foi bloqueado pelo meu chefe, Não mande mais comando para mim se não quer ter uma visita* 🚫'
